@@ -26,7 +26,7 @@
  * param {string} line
  * returns {string}
  */
-function frontDoorResponse(line) {
+function frontDoorResponseP(line) {
     return line[0];
   }
   
